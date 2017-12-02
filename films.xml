@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="filmy.xsl"?>
+	<moviesCollection>
+	<copyright>Wydział Zarządzania, Uniwersytet Ekonomiczny, Kraków</copyright>
+    <!--Dane osobowe-->
+	<dane>
+	<imie>Marzena</imie>
+	<nazwisko>Lelek</nazwisko>
+	<plec>kobieta</plec>
+	<wiek unit="years">19</wiek>
+	<miejscowosc>Zelczyna</miejscowosc>
+	<kraj>Polska</kraj>
+	<kierunek>Informatyka stosowana</kierunek>
+	<semestr unit="number">1</semestr>
+	<grupa unit="number">KrDZIs1012</grupa>
+	</dane>
+	<!--Dokument zawiera kolekcję filmów. Wybrałam 10 spośród moich ulubionych pozycji. Chciałam zachęcić do obejrzenia.-->
+	<movie>
+	<title>The Green Mile</title>
+	<releaseDate unit="polish">24 March 2000</releaseDate>
+	<releaseDate unit="world">6 December 1999</releaseDate>
+	<director>Frank Darabont</director>
+	<genre>Drama</genre>
+	<awards unit="number">8</awards>
+	<nominations unit="number">16</nominations>
+	</movie>
+	<movie>
+	<title>The Shawshank Redemption</title>
+	<releaseDate unit="polish">16 April 1995</releaseDate>
+	<releaseDate unit="world">10 September 1994</releaseDate>
+	<director>Frank Darabont</director>
+	<genre>Drama</genre>
+	<awards unit="number">6</awards>
+	<nominations unit="number">19</nominations>
+	</movie>
+	<movie>
+	<title>Leon: The Professional</title>
+	<releaseDate unit="polish">26 May 1995</releaseDate>
+	<releaseDate unit="world">14 September 1994</releaseDate>
+	<director>Luc Besson</director>
+	<genre>Crime</genre>
+	<awards unit="number">1</awards>
+	<nominations unit="number">8</nominations>
+	</movie>
+	<movie>
+	<title>Gladiator</title>
+	<releaseDate unit="polish">14 July 2000</releaseDate>
+	<releaseDate unit="world">1 May 2000</releaseDate>
+	<director>Ridley Scott</director>
+	<genre>Drama</genre>
+	<awards unit="number">28</awards>
+	<nominations unit="number">51</nominations>
+	</movie>
+	<movie>
+	<title>The Silence of the lambs</title>
+	<releaseDate unit="polish">31 December 1991</releaseDate>
+	<releaseDate unit="world">30 January 1991</releaseDate>
+	<director>Jonathan Demme</director>
+	<genre>Thriller</genre>
+	<awards unit="number">36</awards>
+	<nominations unit="number">21</nominations>
+	</movie>
+    <movie>
+	<title>Pulp Fiction</title>
+	<releaseDate unit="polish">19 May 1995</releaseDate>
+	<releaseDate unit="world">12 May 1994</releaseDate>
+	<director>Quentin Tarantino</director>
+	<genre>Crime</genre>
+	<awards unit="number">34</awards>
+	<nominations unit="number">32</nominations>
+	</movie>
+	<movie>
+	<title>Intouchables</title>
+	<releaseDate unit="polish">13 April 2012</releaseDate>
+	<releaseDate unit="world">23 September 2011</releaseDate>
+	<director>Olivier Nakache</director>
+	<genre>Drama</genre>
+	<awards unit="number">7</awards>
+	<nominations unit="number">24</nominations>
+	</movie>
+	<movie>
+	<title>Seven</title>
+	<releaseDate unit="polish">15 February 1996</releaseDate>
+	<releaseDate unit="world">22 September 1995</releaseDate>
+	<director>David Fincher</director>
+	<genre>Thriller</genre>
+	<awards unit="number">7</awards>
+	<nominations unit="number">12</nominations>
+	</movie>
+	<movie>
+	<title>The Boy in the Striped Pyjamas</title>
+	<releaseDate unit="polish">12 September 2008</releaseDate>
+	<releaseDate unit="world">12 September 2008</releaseDate>
+	<director>Mark Herman</director>
+	<genre>Drama</genre>
+	<awards unit="number">1</awards>
+	<nominations unit="number">4</nominations>
+	</movie>
+	<movie>
+	<title>The Departed</title>
+	<releaseDate unit="polish">27 October 2006</releaseDate>
+	<releaseDate unit="world">6 October 2004</releaseDate>
+	<director>Martin Scorsese</director>
+	<genre>Crime</genre>
+	<awards unit="number">24</awards>
+	<nominations unit="number">34</nominations>
+	</movie>
+
+	</moviesCollection>
+
+
