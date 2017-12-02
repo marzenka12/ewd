@@ -9,7 +9,3 @@
  </body>
  </html>
 </xsl:template>
-<xsl:template match="title">
- <xsl:number count="movie" format="1. "/>
- <xsl:value-of select="."/><br/>
-</xsl:template>
